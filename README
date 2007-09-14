@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2020
+
+This compiler plugin compiles the gettext po files to mo files and checks the errors.
